@@ -1,0 +1,27 @@
+ body {
+     background-color: aquamarine;
+     width: auto;
+     height: auto;
+ }
+
+ .heading {
+     color: chartreuse;
+     font-family: monospace;
+     font-size: 20px;
+     font-kerning: none;
+     text-align: center;
+ }
+
+ #h3-1 {
+     color: black;
+     text-align: center;
+     border: 3px red solid;
+     
+     /** padding reference**/
+     padding: 5px 10px 15px 20px;
+     /** padding reference end**/
+     
+     /** margin reference**/
+     margin: 5px 10px 15px 20px;
+     /** margin reference end**/
+ }
